@@ -43,7 +43,7 @@ Educational institutions often struggle to identify students at risk of underper
 - Git & GitHub
 - Kaggle dataset
 
-- References
+## References
 Kaggle Students Performance Dataset: [DataSet](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
 
 scikit-learn documentation: [scikit-learn](https://scikit-learn.org/)
