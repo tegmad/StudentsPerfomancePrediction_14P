@@ -1,13 +1,51 @@
 # Students Performance Prediction
 
-## 📌 Overview
+## Introduction
 
-This project is a final coursework for the INF 395 class. The main objective is to predict students' academic performance based on various demographic and social features such as gender, parental education level, lunch type, and more.
+This project is a machine learning-based academic performance prediction system for educational institutions. It aims to analyze demographic and social factors affecting 
+student outcomes and to build models that can predict performance metrics.
 
-The dataset used is publicly available on Kaggle: [Students Performance Dataset](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
+## Problem Statement
 
-- Link To the Presention: [Presentation Link](https://www.canva.com/design/DAGZpzjds2Q/KItLRMxonn-SRcs9LxoHIQ/edit?utm_content=DAGZpzjds2Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Educational institutions often struggle to identify students at risk of underperformance before it’s too late. Traditional evaluation methods are reactive rather than proactive. This project addresses the need for a data-driven approach to identify patterns and predict students’ academic success based on socio-economic and behavioral features.
 
-- Used Libriaries / Technologies: Python, Pandas, Sklearn, Matplotlib, Plotly, Seaborn, GridSearchCV, RandomForestClassifier, KNeighborsClassifier,  StandartScaller, SMOTE, SVC, SVC, PCA, RandomizedSearchCV, KNeighborsClassifier, 
+## Objectives
 
-- Team Members: Madi Tegisbek 220103250, 14-p
+- To explore how various socio-demographic attributes influence student performance
+- To develop predictive models using machine learning
+- To evaluate and compare model accuracy
+- To visualize key patterns and correlations within the dataset
+
+## Technology Stack
+
+**Languages & Tools:**
+- Python 3.10+
+- Jupyter Notebook
+
+**Libraries:**
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- plotly
+- GridSearchCV
+- RandomForestClassifier
+- Kn
+- StandardScaler
+- PCA
+- SVC
+- KNeighborsClassifier
+- imblearn
+- StandardScaler
+
+**Others:**
+- Git & GitHub
+- Kaggle dataset : [DataSet](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
+
+## Installation Instructions
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/tegmad/StudentsPerfomancePrediction_14p.git
