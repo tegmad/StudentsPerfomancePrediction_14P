@@ -41,11 +41,29 @@ Educational institutions often struggle to identify students at risk of underper
 
 **Others:**
 - Git & GitHub
-- Kaggle dataset : [DataSet](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
+- Kaggle dataset
+
+- References
+Kaggle Students Performance Dataset: [DataSet](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
+
+scikit-learn documentation: [scikit-learn](https://scikit-learn.org/)
+
+pandas documentation: [pandas](https://pandas.pydata.org/)
+
+## Testing
+No automated unit tests were implemented, but all steps in the notebook are modular and manually verifiable.
+
+## Team Members
+- Madi Tegisbek [14-p], id: 220103250
+
 
 ## Installation Instructions
+
 
 ### 1. Clone the repository
 
 ```bash
 git clone https://github.com/tegmad/StudentsPerfomancePrediction_14p.git
+
+
+
