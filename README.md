@@ -10,3 +10,4 @@ The dataset used is publicly available on Kaggle: [Students Performance Dataset]
 
 - Used Libriaries / Technologies: Python, Pandas, Sklearn, Matplotlib, Plotly, Seaborn, GridSearchCV, RandomForestClassifier, KNeighborsClassifier,  StandartScaller, SMOTE, SVC, SVC, PCA, RandomizedSearchCV, KNeighborsClassifier, 
 
+- Team Members: Madi Tegisbek 220103250, 14-p
