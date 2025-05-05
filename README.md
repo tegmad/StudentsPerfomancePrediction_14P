@@ -52,6 +52,8 @@ pandas documentation: [pandas](https://pandas.pydata.org/)
 
 Project Slides (There was as problem wih size of Slides(487.5mb)): [Slide Link](https://www.canva.com/design/DAGZpzjds2Q/KItLRMxonn-SRcs9LxoHIQ/edit)
 
+Project Slides (In Google Drive): [Google Drive link to the Slide](https://drive.google.com/drive/folders/1XyVMbWiTp-LEwmOkxyMRFk_6y8_FfrjA?usp=sharing)
+
 ## Testing
 No automated unit tests were implemented, but all steps in the notebook are modular and manually verifiable.
 
