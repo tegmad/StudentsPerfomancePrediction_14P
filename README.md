@@ -50,6 +50,8 @@ scikit-learn documentation: [scikit-learn](https://scikit-learn.org/)
 
 pandas documentation: [pandas](https://pandas.pydata.org/)
 
+Project Slides (There was as problem wih size of Slides(487.5mb)): (Slide Link)[https://www.canva.com/design/DAGZpzjds2Q/KItLRMxonn-SRcs9LxoHIQ/edit]
+
 ## Testing
 No automated unit tests were implemented, but all steps in the notebook are modular and manually verifiable.
 
